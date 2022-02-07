@@ -1,3 +1,2 @@
 ![](./leaf.svg)
-<br>
-hi
+![](./leaf.svg)
