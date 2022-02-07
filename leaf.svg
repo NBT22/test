@@ -4,7 +4,7 @@
       <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(239, 180, 19);" cx="46.242" cy="118.638" rx="36.304" ry="54.39"></ellipse>
     </mask>
   </defs>
-  <g transform="matrix(1.560836, 0, 0, 1.560836, -0.00335, -0.001785)">
+  <g transform="matrix(1.156084, 0, 0, 1.156084, -0.000367, -0.000196)">
     <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(239, 180, 19);" cx="46.242" cy="118.638" rx="36.304" ry="54.39"></ellipse>
     <ellipse style="fill: rgba(0, 0, 0, 0.5); mask: url(#mask-0); filter: blur(1px);" cx="47.575" cy="44.573" rx="35.559" ry="36.229"></ellipse>
     <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(239, 180, 19); paint-order: fill;" cx="107.03" cy="179.745" rx="45.741" ry="36.229" transform="matrix(0.99863, 0.052336, -0.052336, 0.99863, -49.901498, -146.526832)"></ellipse>
