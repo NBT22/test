@@ -1,2 +1,1 @@
-![](./leaf.svg)
-![](./leaf.svg)
+<img src="leaf.svg" width="11"/>
