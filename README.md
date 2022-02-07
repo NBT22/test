@@ -1,1 +1,1 @@
-<img src="leaf.svg" width="11"/>
+<img src="leaf.svg" width="25"/>
