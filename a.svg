@@ -17,7 +17,7 @@
             }
             </style>
             <h1>HELLO WORLD!</h1>
-            <textarea name="myInput" cols="20" rows="10" minlength="10" maxlength="500" required></textarea>
         </div>
     </foreignObject>
+    <script>alert('hi');</script>
 </svg>
