@@ -17,7 +17,7 @@
             }
             </style>
             <h1>HELLO WORLD!</h1>
-            <label><input type="checkbox" name="myCheckbox"> Check me!</label>
+            <input type="submit" name="myInput" value="Submit">
         </div>
     </foreignObject>
 </svg>
