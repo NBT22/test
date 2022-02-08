@@ -3,7 +3,7 @@
 
 
 
-<img src="" width="25" onClick = "javascript:alert('a')"/>
+<div style = 'background-color: red;' onClick = "javascript:alert('a')"/>
 
 
 
