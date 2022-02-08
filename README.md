@@ -3,7 +3,7 @@
 
 
 
-<img src="leaf.svg" width="25" onClick = "javascript:alert('a')"/>
+<img src="" width="25" onClick = "javascript:alert('a')"/>
 
 
 
