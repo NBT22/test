@@ -3,7 +3,7 @@
 
 
 
-<a href = './a.js'>a</a>
+<a href = "javascript:alert('hi');">a</a>
 
 
 
