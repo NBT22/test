@@ -3,7 +3,7 @@
 
 
 
-<div style = 'background-color: red;' onClick = "javascript:alert('a')"/>
+<div style = 'background-color: red' onClick = "javascript:alert('a')">aaaaaaaaaaa</div>
 
 
 
