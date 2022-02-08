@@ -11,13 +11,16 @@
                 from {
                     color: red;
                 }
-                to {
+                50% {
                     color: yellow;
+                }
+                to {
+                    color: red;
                 }
             }
             </style>
             <h1>HELLO WORLD!</h1>
-            <button>hi</button>
+            <button onClick = "alert('hi')">hi</button>
         </div>
     </foreignObject>
 </svg>
