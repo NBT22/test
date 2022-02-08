@@ -3,9 +3,9 @@
 
 
 
-<a href = 'javascript:void(0);' onClick = "javascript:alert('hi');">a</a>
+<img src="leaf.svg" width="25" onClick = "javascript:alert('a')"/>
 
 
 
-<p style = 'color: red'>hello</p>
+<p style = 'color: red'>hello</p>1
 hello
