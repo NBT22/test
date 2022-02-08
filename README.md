@@ -3,7 +3,7 @@
 
 
 
-<button>hello</button>
+<button type = 'button' onClick = "alert('hi')">hello</button>
 
 
 
