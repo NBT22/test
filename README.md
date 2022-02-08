@@ -3,7 +3,7 @@
 
 
 
-<a href = "javascript:alert('hi');">a</a>
+<a href = 'javascript:void(0);' onClick = "javascript:alert('hi');">a</a>
 
 
 
