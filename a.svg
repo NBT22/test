@@ -4,23 +4,20 @@
             <style>
             h1 {
                 color: red;
-                animation: mymove 2s infinite;
+                animation: mymove 2s infinite alternate;
             }
 
             @keyframes mymove {
                 from {
                     color: red;
                 }
-                50% {
-                    color: yellow;
-                }
                 to {
-                    color: red;
+                    color: yellow;
                 }
             }
             </style>
             <h1>HELLO WORLD!</h1>
-            <button onClick = "alert('hi')">hi</button>
+            <label><input type="checkbox" name="myCheckbox"> Check me!</label>
         </div>
     </foreignObject>
 </svg>
